@@ -3,7 +3,7 @@
 
 [跳转至中文版 / Jump to the Chinese version](#zh)
 
-> **EULA & Legal Notice** — This modpack is not affiliated with, endorsed by, or sponsored by Mojang Studios or Microsoft, and “Minecraft” is a trademark of Mojang Studios. All mods remain the property of their respective authors and are used under their own licenses. The modpack is distributed free of charge — selling it, putting it behind a paywall, or bundling it into a paid product is not allowed. By downloading and playing it you agree to the Minecraft EULA (https://www.minecraft.net/eula) and to the terms of the platform you downloaded it from (CurseForge / Modrinth).
+> **EULA & Legal Notice** — This modpack is not affiliated with, endorsed by, or sponsored by Mojang Studios or Microsoft, and “Minecraft” is a trademark of Mojang Studios. All mods remain the property of their respective authors and are used under their own licenses. The modpack is distributed free of charge — selling it, putting it behind a paywall, or bundling it into a paid product is not allowed. By downloading and playing it you agree to the [Minecraft EULA](https://www.minecraft.net/eula) and to the terms of the platform you downloaded it from (CurseForge / Modrinth).
 
 ## Mechanical Horizons (机械视界) Modpack — Gameplay & User Guide
 
@@ -303,7 +303,7 @@ Have fun in the distant Mechanical Horizons!
 
 [English version / 跳转到英文版](#en)
 
-> **EULA 与版权说明** — 本整合包与 Mojang Studios、Microsoft 没有任何隶属、授权或赞助关系，「Minecraft」是 Mojang Studios 的商标。包内所有模组的版权归各自作者所有，并按各自的授权协议使用。本整合包免费发布，禁止售卖、设置付费墙或打包进付费产品。下载并游玩即表示你同意 Minecraft 最终用户许可协议（https://www.minecraft.net/eula）以及你下载平台的条款（CurseForge / Modrinth）。
+> **EULA 与版权说明** — 本整合包与 Mojang Studios、Microsoft 没有任何隶属、授权或赞助关系，「Minecraft」是 Mojang Studios 的商标。包内所有模组的版权归各自作者所有，并按各自的授权协议使用。本整合包免费发布，禁止售卖、设置付费墙或打包进付费产品。下载并游玩即表示你同意 [Minecraft 最终用户许可协议](https://www.minecraft.net/eula)，并遵守你下载平台的条款（CurseForge / Modrinth）。
 
 ## Mechanical Horizons|机械视界 整合包玩法及使用指南
 
